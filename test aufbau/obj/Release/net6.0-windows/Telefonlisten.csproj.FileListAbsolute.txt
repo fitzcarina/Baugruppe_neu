@@ -1,0 +1,302 @@
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.exe
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.deps.json
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.runtimeconfig.json
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.pdb
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DynamicPDF.CoreSuite.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Dapper.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DeclarativeSql.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DeclarativeSql.MicrosoftSqlClient.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\ExcelDataReader.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\FastMember.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Syncfusion.Compression.Base.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Syncfusion.XlsIO.Base.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\ZString.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.ResolveComReference.cache
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Bearbeitenneu.g.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Hinzufügen.g.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Liste.g.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\loeschen.g.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\richtigloeschen.g.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\App.g.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Bearbeitenneu.baml
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Hinzufügen.baml
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Liste.baml
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\loeschen.baml
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\richtigloeschen.baml
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.g.resources
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.AssemblyInfoInputs.cache
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.AssemblyInfo.cs
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.CopyComplete
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\refint\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.pdb
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.genruntimeconfig.cache
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\ref\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.dll.manifest
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.application
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.dll.manifest
+C:\Users\c.fitz\source\repos\Telefonnummern pfelgen\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.application
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.exe
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.deps.json
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.runtimeconfig.json
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.pdb
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Azure.Core.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Azure.Identity.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DynamicPDF.CoreSuite.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Dapper.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DeclarativeSql.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DeclarativeSql.MicrosoftSqlClient.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\DocumentFormat.OpenXml.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\ExcelDataReader.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\FastMember.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Microsoft.Net.Http.Headers.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Syncfusion.Compression.Base.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Syncfusion.Licensing.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Syncfusion.XlsIO.Base.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.DirectoryServices.Protocols.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\ZString.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.AssemblyReference.cache
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.ResolveComReference.cache
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Bearbeitenneu.g.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Hinzufügen.g.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Liste.g.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\loeschen.g.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\MainWindow.g.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\richtigloeschen.g.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\App.g.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten_MarkupCompile.cache
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten_MarkupCompile.lref
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Bearbeitenneu.baml
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Hinzufügen.baml
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Liste.baml
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\loeschen.baml
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\MainWindow.baml
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\richtigloeschen.baml
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.g.resources
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.GeneratedMSBuildEditorConfig.editorconfig
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.AssemblyInfoInputs.cache
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.AssemblyInfo.cs
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.CoreCompileInputs.cache
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.CopyComplete
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\refint\Telefonlisten.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.pdb
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.genruntimeconfig.cache
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\ref\Telefonlisten.dll
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.dll.manifest
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\bin\Release\net6.0-windows\Telefonlisten.application
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.dll.manifest
+O:\Programme\Telefonnummern\test aufbau - Kopie\test aufbau\obj\Release\net6.0-windows\Telefonlisten.application
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Telefonlisten.exe
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Telefonlisten.deps.json
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Telefonlisten.runtimeconfig.json
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Telefonlisten.pdb
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\DynamicPDF.CoreSuite.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Dapper.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\DeclarativeSql.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\DeclarativeSql.MicrosoftSqlClient.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\ExcelDataReader.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\FastMember.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Syncfusion.Compression.Base.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Syncfusion.XlsIO.Base.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\ZString.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.ResolveComReference.cache
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\App.g.cs
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.g.resources
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.AssemblyInfoInputs.cache
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.AssemblyInfo.cs
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.csproj.CopyComplete
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\refint\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.pdb
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.genruntimeconfig.cache
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\ref\Telefonlisten.dll
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Telefonlisten.dll.manifest
+C:\Users\c.fitz\source\repos\test\test aufbau\bin\Release\net6.0-windows\Telefonlisten.application
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.dll.manifest
+C:\Users\c.fitz\source\repos\test\test aufbau\obj\Release\net6.0-windows\Telefonlisten.application
